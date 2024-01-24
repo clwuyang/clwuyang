@@ -1,7 +1,6 @@
 # Welcome to Chenglong's/Oskar's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
-&nbsp;
+
 ###
 
 ## Glad to see you here! &nbsp;
@@ -22,6 +21,17 @@ My other interests are playing sports or playing video games. But I do not like 
 
 My languages are English, Native Spanish, and Chinese. This is because of my background culture, where I grew up with different cultures. English is my tool for communicating with everyone around the globe, Spanish is the culture where I grew up with my friends and the environment around me, and Chinese is my family's relationship.
 
+## How to reach me
+<a href="https://www.linkedin.com/in/cwuyang/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/clwuyang/icons-for-readme/main/linked-in.svg" alt="clwuyang" height="30" width="40" />
+</a>
+
+- 📬 Email: [cwuyang@hawk.iit.edu](cwuyang@hawk.iit.edu)
+- 📝 [Resume]()
+  
+## 🌱 I'm currently learning:
+- Data Structures and Algorithms on LeetCode
+- [Generative AI on Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/183)
 ---
 
 ## 🛠️ My favorite tools
