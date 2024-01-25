@@ -70,7 +70,6 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?&logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?&logo=eclipse&logoColor=white"></a>
 <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?&logo=googlecolab&color=525252"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
