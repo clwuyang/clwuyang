@@ -37,7 +37,6 @@
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white"></a>
 <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black"></a>
   
 
  
