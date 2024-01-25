@@ -12,7 +12,8 @@
 &nbsp;
 ## How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-cwuyang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cwuyang/)](https://www.linkedin.com/in/cwuyang/)
-[![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cwuyang@hawk.iit.edu)](cwuyang@hawk.iit.edu)
+[![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cwuyang@hawk.iit.edu)](mailto:cwuyang@hawk.iit.edu)
+
 - 📝 [Resume]()
   
 ## 🌱 I'm currently learning:
