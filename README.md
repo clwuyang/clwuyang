@@ -1,4 +1,4 @@
-# Welcome to Chenglong's/Oskar's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Chenglong's/Oskar's](clwuyang.github.io) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 ###
@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-cwuyang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cwuyang/)](https://www.linkedin.com/in/cwuyang/)
 [![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cwuyang@hawk.iit.edu)](mailto:cwuyang@hawk.iit.edu)
 
-- 📝 [Resume]()
+- 📝 [Resume](https://drive.google.com/file/d/1fN1pMCZSCb9piRBRHRU1AKKt29HDUpsU/view?usp=sharing)
   
 ## 🌱 I'm currently learning:
 - Data Structures and Algorithms on LeetCode
