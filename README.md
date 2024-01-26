@@ -1,4 +1,4 @@
-# Welcome to [Chenglong's/Oskar's](clwuyang.github.io) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Chenglong's/Oskar's](https://clwuyang.github.io/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 ###
