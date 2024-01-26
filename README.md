@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-cwuyang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cwuyang/)](https://www.linkedin.com/in/cwuyang/)
 [![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cwuyang@hawk.iit.edu)](mailto:cwuyang@hawk.iit.edu)
 
-- 📝 [Resume](https://drive.google.com/file/d/1fN1pMCZSCb9piRBRHRU1AKKt29HDUpsU/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1qp69Wrc1hom0nTilDY6xLRovhkq8Khxl/view?usp=sharing)
   
 ## 🌱 I'm currently learning:
 - Data Structures and Algorithms on LeetCode
