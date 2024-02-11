@@ -3,7 +3,7 @@
 
 ###
 
-## Glad to see you here! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Glad+to+see+you+here!!+;Newbie+starting+using+Github...;Here+is+my+ongoing+work%2C+take+a+peek!!!)](https://git.io/typing-svg)
 
 ## A little bit about myself
 - 🙋🏻‍♂️ I am Chenglong Wu, people also call me Oskar.
@@ -61,6 +61,7 @@
 <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?&logo=opencv&logoColor=white"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?&logo=unity&logoColor=white"></a>
 </p>
+
 ### 💻 Software and tools
 
 <p>
