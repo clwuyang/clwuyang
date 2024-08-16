@@ -19,6 +19,7 @@
 ## 🌱 I'm currently learning:
 - Data Structures and Algorithms on LeetCode
 - [Generative AI on Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/183)
+- Hugging Face Deep Reinforcement Learning Course(https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 ---
 
 ## 🛠️ My favorite tools
