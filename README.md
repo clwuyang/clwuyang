@@ -6,13 +6,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Glad+to+see+you+here!!+;Newbie+starting+using+Github...;Here+is+my+ongoing+work%2C+take+a+peek!!!)](https://git.io/typing-svg)
 
 ## A little bit about myself
-- 🙋🏻‍♂️ I am Chenglong Wu, people also call me Oskar.
+- 🙋🏻‍♂️ I am Chenglong (Oskar), people also call me Oskar.
 - 🔬 I am interested in Software Engineering, Machine Learning, Deep Learning, Generative AI and Computer Vision.
 - 👨‍🎓 I am a graduate Computer Science student at Illinois Institute of Technology.
 &nbsp;
 ## How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-cwuyang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cwuyang/)](https://www.linkedin.com/in/cwuyang/)
-[![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cwuyang@hawk.iit.edu)](mailto:cwuyang@hawk.iit.edu)
+[![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cwuyang@hawk.iit.edu)](mailto:clwuyang@gmail.com)
 
 - 📝 [Resume](https://drive.google.com/file/d/1R7x7z9O-YMyopcB9l5gOjToMuv6czflC/view?usp=sharing)
   
